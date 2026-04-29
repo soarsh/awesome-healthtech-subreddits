@@ -1,5 +1,7 @@
 # Awesome Healthtech & Wellness Subreddits
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 The communities where health buyers want peer proof and lived experience, where supplement marketers and MLM coaches have spent a decade poisoning the well for legitimate brands, and where the right sub for your audience may be one your media plan never considered. Curated for VPs of Marketing at health, wellness, supplement, fitness app, nutrition, mental health, and telehealth brands.
 
 > **About this list.** Maintained by [Soar](https://soar.sh). We sell Reddit accounts and run engagement campaigns for B2B and consumer brands, so we have direct skin in the game on what works in these communities. The commentary on mod culture, removal rates, and what gets banned comes from running real campaigns across hundreds of subreddits, not desk research.
