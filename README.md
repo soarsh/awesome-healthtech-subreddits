@@ -1,6 +1,4 @@
-# Awesome Healthtech & Wellness Subreddits
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Healthtech & Wellness Subreddits [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 The communities where health buyers want peer proof and lived experience, where supplement marketers and MLM coaches have spent a decade poisoning the well for legitimate brands, and where the right sub for your audience may be one your media plan never considered. Curated for VPs of Marketing at health, wellness, supplement, fitness app, nutrition, mental health, and telehealth brands.
 
@@ -16,20 +14,20 @@ The communities where health buyers want peer proof and lived experience, where 
 - [How we picked these eight](#how-we-picked-these-eight)
 - [The MLM and supplement context you need to know](#the-mlm-and-supplement-context-you-need-to-know)
 - [The shortlist](#the-shortlist)
-  1. [r/Fitness](#1-rfitness)
-  2. [r/loseit](#2-rloseit)
-  3. [r/keto](#3-rketo)
-  4. [r/bodybuilding](#4-rbodybuilding)
-  5. [r/xxfitness](#5-rxxfitness)
-  6. [r/running](#6-rrunning)
-  7. [r/nutrition](#7-rnutrition)
-  8. [r/Meditation](#8-rmeditation)
+  - [r/Fitness](#rfitness)
+  - [r/loseit](#rloseit)
+  - [r/keto](#rketo)
+  - [r/bodybuilding](#rbodybuilding)
+  - [r/xxfitness](#rxxfitness)
+  - [r/running](#rrunning)
+  - [r/nutrition](#rnutrition)
+  - [r/Meditation](#rmeditation)
 - [Posting playbook for healthtech and wellness](#posting-playbook-for-healthtech-and-wellness)
 - [FAQ](#faq)
 - [Subreddits we considered and didn't include](#subreddits-we-considered-and-didnt-include)
 - [Further reading](#further-reading)
 - [Related lists](#related-lists)
-- [License](#license)
+- [Live version with brand-mention data](#live-version-with-brand-mention-data)
 
 ---
 
@@ -70,9 +68,9 @@ The implication: any product that smells even adjacent to MLM (multi-tier affili
 
 ## The shortlist
 
-### 1. r/Fitness
+### r/Fitness
 
-**~12.5M subscribers · [reddit.com/r/Fitness](https://www.reddit.com/r/Fitness/)**
+~12.5M subscribers · [reddit.com/r/Fitness](https://www.reddit.com/r/Fitness/)
 
 The largest fitness sub on Reddit and 26th-largest sub overall (per Inverse). The entire moderation philosophy is encoded in two pinned rules: "Read the Rules Before Posting" and "Read the Wiki Before Posting," both linking to [thefitness.wiki](https://thefitness.wiki).
 
@@ -82,9 +80,9 @@ The largest fitness sub on Reddit and 26th-largest sub overall (per Inverse). Th
 
 ---
 
-### 2. r/loseit
+### r/loseit
 
-**~4.2M subscribers · [reddit.com/r/loseit](https://www.reddit.com/r/loseit/)**
+~4.2M subscribers · [reddit.com/r/loseit](https://www.reddit.com/r/loseit/)
 
 Famously welcoming community ethos: "A place for people of all sizes to discuss healthy and sustainable methods of weight loss." Founded 2010. The original viral driver was its before-and-after culture (per [Daily Dot's 2014 interview](https://www.dailydot.com/society/reddit-lose-it-weight-loss-interview/)).
 
@@ -100,9 +98,9 @@ GLP-1s are explicitly classed alongside very-low-calorie diets and disordered ea
 
 ---
 
-### 3. r/keto
+### r/keto
 
-**~3.9M subscribers · [reddit.com/r/keto](https://www.reddit.com/r/keto/)**
+~3.9M subscribers · [reddit.com/r/keto](https://www.reddit.com/r/keto/)
 
 Founded 2010. "The Ketogenic Diet is a low carbohydrate method of eating. r/keto is place to share thoughts, ideas, benefits, and experiences." One of the more brand-tolerant subs on this list, but the MLM-poisoned-well dynamic is severe.
 
@@ -112,9 +110,9 @@ Founded 2010. "The Ketogenic Diet is a low carbohydrate method of eating. r/keto
 
 ---
 
-### 4. r/bodybuilding
+### r/bodybuilding
 
-**~2.9M subscribers · [reddit.com/r/bodybuilding](https://www.reddit.com/r/bodybuilding/)**
+~2.9M subscribers · [reddit.com/r/bodybuilding](https://www.reddit.com/r/bodybuilding/)
 
 Founded 2008. The mods explicitly narrow the topic: "This sub is about body building. Specifically, the sport that involves preparing yourself for a competition (includes bikini, fitness, figure and physique). For the purposes of this sub bodybuilding is not about building a better body or general weight lifting." If you sell to general gym-goers, this sub is not your audience.
 
@@ -124,9 +122,9 @@ Founded 2008. The mods explicitly narrow the topic: "This sub is about body buil
 
 ---
 
-### 5. r/xxfitness
+### r/xxfitness
 
-**~3.1M subscribers · [reddit.com/r/xxfitness](https://www.reddit.com/r/xxfitness/)**
+~3.1M subscribers · [reddit.com/r/xxfitness](https://www.reddit.com/r/xxfitness/)
 
 Founded 2010. "We're a community targeted at female and gender non binary/gender non conforming redditors to discuss fitness." The most distinctive rule set in the whole shortlist.
 
@@ -136,9 +134,9 @@ Founded 2010. "We're a community targeted at female and gender non binary/gender
 
 ---
 
-### 6. r/running
+### r/running
 
-**~4.2M subscribers · [reddit.com/r/running](https://www.reddit.com/r/running/)**
+~4.2M subscribers · [reddit.com/r/running](https://www.reddit.com/r/running/)
 
 Founded 2008. The most welcoming sidebar copy of the eight, the strictest self-promotion rule of the eight.
 
@@ -148,9 +146,9 @@ Founded 2008. The most welcoming sidebar copy of the eight, the strictest self-p
 
 ---
 
-### 7. r/nutrition
+### r/nutrition
 
-**~5.9M subscribers · [reddit.com/r/nutrition](https://www.reddit.com/r/nutrition/)**
+~5.9M subscribers · [reddit.com/r/nutrition](https://www.reddit.com/r/nutrition/)
 
 Founded 2008. One of the most aggressive moderation regimes of any large health sub. Self-described as a sub for "discussion of nutrition science. Macronutrients, micronutrients, vitamins, diets, and nutrition news... Civil discourse is required."
 
@@ -160,9 +158,9 @@ Founded 2008. One of the most aggressive moderation regimes of any large health 
 
 ---
 
-### 8. r/Meditation
+### r/Meditation
 
-**~3.5M subscribers · [reddit.com/r/Meditation](https://www.reddit.com/r/Meditation/)**
+~3.5M subscribers · [reddit.com/r/Meditation](https://www.reddit.com/r/Meditation/)
 
 Founded 2008. "This community is for sharing experiences, stories and instruction relating to the practice of meditation."
 
@@ -196,32 +194,25 @@ The honest summary: Reddit is the largest source of unfiltered health buyer lang
 
 ## FAQ
 
-### Why isn't r/ADHD on the main list?
-
+### Why isn't r/ADHD on the main list
 It's actually the most relevant sub for many healthtech brands (focus apps, telehealth ADHD, supplements), but it's also the most aggressively moderated sub in the entire health Reddit ecosystem. The 2024 incident where r/ADHD mods publicly accused ADDitude Magazine (the largest ADHD content publisher) of "promoting unscientific quack practices like homeopathy and reiki" and "junk science" and auto-blocked all ADDitude links is the canonical example of how this community treats outside content. Direct rules include "**No Alternative Medication or Substance Misuse**," "**No Faith-Based Practices/Pseudoscience**," and "**No Advertising, Self-Promotion, 'I made this,' or feedback requests. No ads or app promotion. If you made it, work on it, benefit from it, were asked to share it, or know the creator, don't post it. Free or paid doesn't matter.**" We cover r/ADHD in detail in [considered](#subreddits-we-considered-and-didnt-include) with explicit guidance on the path forward.
 
-### Can a GLP-1 telehealth brand market on Reddit at all?
-
+### Can a GLP-1 telehealth brand market on Reddit at all
 Organically, mostly no, in the largest weight-loss subs that explicitly ban GLP-1 promotion. Through Reddit Ads, yes, with creative-compliance review for FDA and FTC restrictions. Through formal AMAs in branded subs you create and steward, yes. Through paid influencer programs with proper #ad disclosure, with caution and FTC review. The Wegovy AMA programs are the most-cited successful pattern.
 
-### What's the realistic timeline before Reddit produces healthtech leads?
-
+### What's the realistic timeline before Reddit produces healthtech leads
 Six to twelve months from first comment to first measurable lead, longer than most other verticals because the trust threshold is higher and the regulatory restrictions on promotional content are tighter. The compounding asset is search and AI-citation presence: Reddit threads about your category compound for years.
 
-### Is r/SkincareAddiction the right sub for our brand?
-
+### Is r/SkincareAddiction the right sub for our brand
 Probably yes if you sell skincare. r/SkincareAddiction is covered in detail in our [awesome-ecommerce-subreddits](https://github.com/soarsh/awesome-ecommerce-subreddits) list because it's editorially closer to consumer-DTC than to healthtech. The La Roche-Posay AMA is the case study every skincare brand should know.
 
-### What about Reddit's own pitch about 79% of women trusting Reddit for health info?
-
+### What about Reddit's own pitch about 79% of women trusting Reddit for health info
 Real, but contextual. The number comes from Reddit's 2025 Health Summit and reflects sentiment about Reddit as a research surface, not as a place that has solved promotion. Reddit's commercial team is selling pharma and consumer-health brands on the audience size; the community's mod teams are protecting against the very promotion that audience-size pitch enables. Both can be true.
 
-### Can we run a branded sub for our health product?
-
+### Can we run a branded sub for our health product
 Yes, and several brands have done it well. NeoReach's crypto-Reddit playbook generalizes: branded subs work as customer-retention surfaces, not acquisition channels. Expect 2+ years of community-management investment before the sub functions independently. The scale comparison: 1Password's r/1Password drives less than 1% of overall referral traffic but functions as the brand's customer-retention heartbeat.
 
-### What gets a healthtech brand permabanned?
-
+### What gets a healthtech brand permabanned
 Three patterns: (1) undisclosed paid posts (FTC-violation territory and Reddit's most aggressively detected offense), (2) astroturfing campaigns where multiple accounts coordinate to seed brand mentions (vote manipulation, the most severe site-wide offense), and (3) any product that resembles MLM (the cultural antigen across every health sub). The first two are detected by Reddit admins via account-correlation tooling; the third is detected by the community within hours.
 
 ---
@@ -246,22 +237,22 @@ A note on what's not here and why, since most "best of" lists don't show their w
 
 ## Further reading
 
-- [Influencer Marketing Hub: How Health & Wellness Brands Use Reddit to Build Credibility](https://influencermarketinghub.com/how-health-wellness-brands-use-reddit/). The closest competing list, with the La Roche-Posay AMA case study.
-- [eMarketer: Pharma brands tap Reddit to reach engaged, curious patient communities](https://www.emarketer.com/content/pharma-brands-tap-reddit-reach-engaged--curious-patient-communities). Wegovy AMA results and KFF trust data.
-- [Social Media Today: Reddit highlights opportunities for healthcare marketers at Health Summit 2025](https://www.socialmediatoday.com/news/reddit-highlights-opportunities-healthcare-marketers-health-summit-2025/759967/). Reddit's commercial pitch to health marketers.
-- [Cardinal Digital Marketing: Should you use Reddit for healthcare marketing?](https://www.cardinaldigitalmarketing.com/healthcare-resources/podcast/should-you-use-reddit-for-healthcare-marketing/). The Tend dental case study with Kaela Shupe.
-- [ADDitude Magazine: ADHD Subreddit Censors ADDitude Information, Links](https://www.additudemag.com/adhd-reddit-moderators-censor-additude/). The canonical example of ADHD-community editorial aggression.
-- [Just Tech / SSRC: Meditation Apps and the Unbearable Whiteness of Wellness](https://just-tech.ssrc.org/field-reviews/meditation-apps-and-the-unbearable-whiteness-of-wellness/). The academic critique r/Meditation is downstream of.
-- [Karen Wilson: Beachbody Bodi Collapses MLM](https://www.karenwilson.online/blog/beachbody-bodi-collapses-mlm-here-s-what-you-need-to-know). The MLM-context primer for understanding why every health sub on this list bans self-promotion so aggressively.
+- [Influencer Marketing Hub: How Health & Wellness Brands Use Reddit to Build Credibility](https://influencermarketinghub.com/how-health-wellness-brands-use-reddit/) - The closest competing list, with the La Roche-Posay AMA case study.
+- [eMarketer: Pharma brands tap Reddit to reach engaged, curious patient communities](https://www.emarketer.com/content/pharma-brands-tap-reddit-reach-engaged--curious-patient-communities) - Wegovy AMA results and KFF trust data.
+- [Social Media Today: Reddit highlights opportunities for healthcare marketers at Health Summit 2025](https://www.socialmediatoday.com/news/reddit-highlights-opportunities-healthcare-marketers-health-summit-2025/759967/) - Reddit's commercial pitch to health marketers.
+- [Cardinal Digital Marketing: Should you use Reddit for healthcare marketing?](https://www.cardinaldigitalmarketing.com/healthcare-resources/podcast/should-you-use-reddit-for-healthcare-marketing/) - The Tend dental case study with Kaela Shupe.
+- [ADDitude Magazine: ADHD Subreddit Censors ADDitude Information, Links](https://www.additudemag.com/adhd-reddit-moderators-censor-additude/) - The canonical example of ADHD-community editorial aggression.
+- [Just Tech / SSRC: Meditation Apps and the Unbearable Whiteness of Wellness](https://just-tech.ssrc.org/field-reviews/meditation-apps-and-the-unbearable-whiteness-of-wellness/) - The academic critique r/Meditation is downstream of.
+- [Karen Wilson: Beachbody Bodi Collapses MLM](https://www.karenwilson.online/blog/beachbody-bodi-collapses-mlm-here-s-what-you-need-to-know) - The MLM-context primer for understanding why every health sub on this list bans self-promotion so aggressively.
 
 ---
 
 ## Related lists
 
-- [Awesome Subreddits hub](https://github.com/soarsh/awesome-subreddits): index of all our curated lists.
-- [Awesome Ecommerce Subreddits](https://github.com/soarsh/awesome-ecommerce-subreddits): for skincare, supplements, and beauty-adjacent healthtech.
-- [Awesome Consumer Brand Subreddits](https://github.com/soarsh/awesome-consumer-brand-subreddits): for wellness durable goods (mats, recovery wearables, kitchen-tied health gear).
-- [Awesome Productivity Subreddits](https://github.com/soarsh/awesome-productivity-subreddits): for habit-tracking, focus, and ADHD-adjacent apps.
+- [Awesome Subreddits hub](https://github.com/soarsh/awesome-subreddits) - Index of all our curated lists.
+- [Awesome Ecommerce Subreddits](https://github.com/soarsh/awesome-ecommerce-subreddits) - For skincare, supplements, and beauty-adjacent healthtech.
+- [Awesome Consumer Brand Subreddits](https://github.com/soarsh/awesome-consumer-brand-subreddits) - For wellness durable goods (mats, recovery wearables, kitchen-tied health gear).
+- [Awesome Productivity Subreddits](https://github.com/soarsh/awesome-productivity-subreddits) - For habit-tracking, focus, and ADHD-adjacent apps.
 
 ## Live version with brand-mention data
 
@@ -273,6 +264,3 @@ The live page on Soar tracks which brands ChatGPT and Google AI Overviews cite a
 
 Spotted a missing subreddit, a stale removal-rate observation, or a mod-rule change? [Open an issue](../../issues) or [submit a PR](../../pulls). See [CONTRIBUTING.md](CONTRIBUTING.md).
 
-## License
-
-Content under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Copy, adapt, and republish freely. Attribution appreciated, not required.
